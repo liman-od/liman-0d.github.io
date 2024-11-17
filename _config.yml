@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Man Li (李曼)"
-  avatar           : "images/show.png"
+  avatar           : "images/show-resized.png"
   bio              : "North University of China (NUC)"
   location         : "Taiyuan, Shanxi, China"
   employer         :
